@@ -1,0 +1,8 @@
+.env
+build/
+coverage/
+node_modules/
+test-report.html
+yarn.lock
+yarn-error.log
+cache/*
